@@ -2,7 +2,7 @@
 layout: post
 title: Geri Dönüşüm Nedir
 subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: assets/img/geri-dönüşüm-nedir-ana-sayfa.jpg
+cover-img: assets/img/geridonusum.jpg
 
 
 thumbnail-img: /assets/img/geri-dönüşüm-nedir-ana-sayfa.jpg
