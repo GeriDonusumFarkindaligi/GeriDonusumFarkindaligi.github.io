@@ -6,7 +6,7 @@ cover-img: ![geri-donusum-nedir](https://github.com/GeriDonusumFarkindaligi/Geri
 
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [nedir]
+tags: [geridonusum]
 ---
 
 Geri dönüşüm konusuna girmeden önce bazı kavramların ne anlama geldiğini öğrenelim. 
