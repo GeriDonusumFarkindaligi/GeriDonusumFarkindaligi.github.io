@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About me
+title: Hakkımızda
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Biz ortaokul öğrencilerinde geri dönüşüm farkındalığı kazandırmayı hedefliyoruz. Bu amaçla:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Sizler için çeşitli videolar, oyunlar, etkileşimli içerikler hazırladık.
+- İçeriklerimiz ile 17. ortaokul öğrencileri araştırma projeleri yarışmasında bölge birinciliği, Türkiye üçüncülüğü kazandık.
 
 What else do you need?
 
