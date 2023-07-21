@@ -18,4 +18,9 @@ Yeniden Kullanım: artık kullanılmayan bir atığın farklı bir ürüne dön�
 
 Geri Dönüşüm: atıkların bazı işlemlerden geçirilerek tekrar ham madde olarak kullanılmasıdır. Geri dönüşüm sürecinde çeşitli aşamalardan faydalanılır. Her atığın geri dönüştürülme şekli farklıdır. Ayrıca bazı atıklar geri dönüştürülemez. Bu nedenle atıkların ayrıştırılması yani geri dönüşebilen atıkların ayrı ayrı toplanması ve geri dönüştürülemeyen atıkların ayrı bir yerde toplanması önemlidir.
 
-Geri Dönüştürülebilen Atıklar
+GeriDönüştürülebilen Atıklar
+Kağıt (defter, kitap, gazete, dergi)
+Cam (renkli cam şişeler, meşrubat şişeleri)
+Metal (metal içecek kutuları, metal konserve kutusu, alüminyum folyo)
+Plastik (pet şişe, plastik ayran kutuları)
+
