@@ -20,8 +20,8 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  About Me: "Hakkımızda"
-  Resources:
+  Hakkımızda: "aboutme.md"
+  Kaynaklar:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
