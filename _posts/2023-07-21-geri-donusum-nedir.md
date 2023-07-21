@@ -5,7 +5,7 @@ subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: assets/img/geri-dönüşüm-nedir-ana-sayfa.jpg
 
 
-thumbnail-img: /assets/img/geridonusum.jpg
+thumbnail-img: /assets/img/geri-dönüşüm-nedir-ana-sayfa.jpg
 share-img: /assets/img/path.jpg
 tags: [geridonusum]
 ---
