@@ -21,6 +21,7 @@ author: Some Person
 
 navbar-links:
   Hakkımızda: "aboutme"
+  Galeri: "gallery"
   Kaynaklar:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
