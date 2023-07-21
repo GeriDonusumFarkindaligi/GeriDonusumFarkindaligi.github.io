@@ -12,7 +12,7 @@ tags: [geridonusum]
 
 Geri dönüşüm konusuna girmeden önce bazı kavramların ne anlama geldiğini öğrenelim. 
 
-Atık: kullanım süresi dolan ve yaşadığımız çevreden uzaklaştırılması gereken maddelerdir.
+**Atık: kullanım süresi dolan ve yaşadığımız çevreden uzaklaştırılması gereken maddelerdir.
 
 Çöp: atıkların içerisinden kağıt, cam, plastik, metal gibi malzemeler ayrıldıktan sonra geride kalan ve hiç bir şekilde kullanılamayacak olan maddelerdir.
 
