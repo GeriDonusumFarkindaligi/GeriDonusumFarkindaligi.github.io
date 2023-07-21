@@ -2,7 +2,7 @@
 layout: post
 title: Geri Dönüşüm Nedir
 subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: ![geri-donusum-nedir](https://github.com/GeriDonusumFarkindaligi/GeriDonusumFarkindaligi.github.io/assets/67762158/87c56664-681f-4695-a60c-c8f62f7ff603)
+cover-img: /_img/geridonusum.jpg
 
 
 thumbnail-img: /assets/img/thumb.png
